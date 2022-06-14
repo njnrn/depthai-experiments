@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/discord/790680891252932659?label=Discord)](https://discord.gg/luxonis)
 [![Forum](https://img.shields.io/badge/Forum-discuss-orange)](https://discuss.luxonis.com/)
 [![Docs](https://img.shields.io/badge/Docs-DepthAI-yellow)](https://docs.luxonis.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnjnrn%2Fdepthai-experiments.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnjnrn%2Fdepthai-experiments?ref=badge_shield)
 
 Projects we've done with DepthAI. These can be anything from "here's some code and it works most of the time" to "this is almost a tutorial".
 
@@ -155,6 +156,9 @@ timestamp,label,left,top,right,bottom,raw_frame,overlay_frame,cropped_frame
 
 [![Gen2 License Plates recognition](https://user-images.githubusercontent.com/5244214/111202991-c62f3980-85c4-11eb-8bce-a3c517abeca1.gif)](https://www.youtube.com/watch?v=tB_-mVVNIro "License Plates recognition on DepthAI")
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnjnrn%2Fdepthai-experiments.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnjnrn%2Fdepthai-experiments?ref=badge_large)
+
 ## Lossless Zooming (4K to 1080p Zoom/Crop) On-Camera ([here](https://github.com/luxonis/depthai-experiments/tree/master/gen2-lossless-zooming#lossless-zooming))
 
 [![Lossless Zooming](https://user-images.githubusercontent.com/18037362/144095838-d082040a-9716-4f8e-90e5-15bcb23115f9.gif)](https://youtu.be/8X0IcnkeIf8)
@@ -243,4 +247,3 @@ https://user-images.githubusercontent.com/26127866/147658296-23be4621-d37a-4fd6-
 ## YOLO V3 V4 V5 X and P On-Camera ([here](https://github.com/luxonis/depthai-experiments/tree/master/gen2-yolo))
 
 ![yolo-logo](https://user-images.githubusercontent.com/56075061/144863247-fa819d1d-28d6-498a-89a8-c3f94d9e9357.gif)
-
